@@ -2,23 +2,23 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-18T11:23:51 CDT" name="Default suite" finished-at="2023-07-18T11:24:10 CDT" duration-ms="18139">
+  <suite started-at="2023-08-18T13:50:19 CDT" name="Default suite" finished-at="2023-08-18T13:50:38 CDT" duration-ms="18233">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2023-07-18T11:23:51 CDT" name="Default test" finished-at="2023-07-18T11:24:10 CDT" duration-ms="18139">
+    <test started-at="2023-08-18T13:50:19 CDT" name="Default test" finished-at="2023-08-18T13:50:38 CDT" duration-ms="18233">
       <class name="Quality_TestRunner.Quality_TestRunner">
-        <test-method is-config="true" signature="QualityStartURL()[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-07-18T11:23:52 CDT" name="QualityStartURL" finished-at="2023-07-18T11:23:56 CDT" duration-ms="4671" status="PASS">
+        <test-method is-config="true" signature="QualityStartURL()[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-08-18T13:50:19 CDT" name="QualityStartURL" finished-at="2023-08-18T13:50:25 CDT" duration-ms="5346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- QualityStartURL -->
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-07-18T11:23:56 CDT" name="setUpClass" finished-at="2023-07-18T11:23:57 CDT" duration-ms="465" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-08-18T13:50:25 CDT" name="setUpClass" finished-at="2023-08-18T13:50:25 CDT" duration-ms="415" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-07-18T11:23:57 CDT" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2023-07-18T11:24:09 CDT" duration-ms="12111" status="PASS">
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-08-18T13:50:25 CDT" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2023-08-18T13:50:37 CDT" duration-ms="11628" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,11 +29,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-07-18T11:24:09 CDT" name="tearDownClass" finished-at="2023-07-18T11:24:09 CDT" duration-ms="27" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-08-18T13:50:37 CDT" name="tearDownClass" finished-at="2023-08-18T13:50:37 CDT" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="QualityCloseURL()[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-07-18T11:24:09 CDT" name="QualityCloseURL" finished-at="2023-07-18T11:24:10 CDT" duration-ms="409" status="PASS">
+        <test-method is-config="true" signature="QualityCloseURL()[pri:0, instance:Quality_TestRunner.Quality_TestRunner@268f106e]" started-at="2023-08-18T13:50:37 CDT" name="QualityCloseURL" finished-at="2023-08-18T13:50:38 CDT" duration-ms="472" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- QualityCloseURL -->
