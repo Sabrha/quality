@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Verify user can signup",
+        "description": "",
+        "id": "this-is-a-login-feature-sprint-1;verify-user-can-signup",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2219585300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Open \"\u003cURL\u003e\"  application",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u003cURL\u003e",
+                  "offset": 6
+                }
+              ],
+              "location": "LoginSprint1.open_application(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 272500700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click signup link",
+            "match": {
+              "location": "LoginSprint1.click_signup_link()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6266228600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Enter Username and Password",
+            "match": {
+              "location": "LoginSprint1.enter_Username_and_Password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3148911700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Click Signup button",
+            "match": {
+              "location": "LoginSprint1.click_Signup_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Jahan1"
+          }
+        ]
+      }
+    ],
+    "name": "This is a Login feature Sprint 1",
+    "description": "",
+    "id": "this-is-a-login-feature-sprint-1",
+    "keyword": "Feature",
+    "uri": "LoginSprint1.feature"
+  }
+]
